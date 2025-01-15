@@ -9,7 +9,7 @@ from aiogram.fsm.state import StatesGroup, State
 import asyncio
 
 
-api = "7788220163:AAFR63G8otzjfEnjmTYwNJw25INnjdtv3Lc"
+api = ""
 bot = Bot(token=api)
 dp = Dispatcher()
 
